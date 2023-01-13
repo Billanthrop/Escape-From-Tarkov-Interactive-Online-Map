@@ -2,10 +2,10 @@
 ----
 ## [Click here to use Live Map](https://billanthrop.github.io/Escape-From-Tarkov-Interactive-Online-Map/)
 
-## 13 Updates
+## 0.13 Updates
 * Streets of Tarkov Map added
 
-## 12.12 Updates
+## 0.12.12 Updates
 
 * Lighthouse Map added
 * Factory Map updated

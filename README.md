@@ -1,4 +1,4 @@
-# EFT Interactive Online Map (12.13 Update)
+# EFT Interactive Online Map (0.13 Update)
 ----
 ## [Click here to use Live Map](https://billanthrop.github.io/Escape-From-Tarkov-Interactive-Online-Map/)
 

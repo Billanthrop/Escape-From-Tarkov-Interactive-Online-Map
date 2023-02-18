@@ -12,8 +12,6 @@
 * Factory Map updated
 * Labs Map updated
 
-## Original code/credit to Zibbp
-(https://github.com/Zibbp/Escape-From-Tarkov-Interactive-Online-Map)
+## [Original code/credit to Zibbp](https://github.com/Zibbp/Escape-From-Tarkov-Interactive-Online-Map)
 
-## Forked code/credit to effintoast
-https://github.com/effintoast/Escape-From-Tarkov-Interactive-Online-Map
+## [Forked code/credit to effintoast](https://github.com/effintoast/Escape-From-Tarkov-Interactive-Online-Map)

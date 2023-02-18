@@ -3,6 +3,8 @@
 ## [Click here to use Live Map](https://billanthrop.github.io/Escape-From-Tarkov-Interactive-Online-Map/)
 
 ## 0.13 Updates
+* Latest 3D R3MR Maps Added
+* Latest 2D Maps Added
 * Streets of Tarkov Map added
 
 ## 0.12.12 Updates
